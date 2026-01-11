@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: app
-        image: mlearn774/simple-java-app:latest
+        image: mlearn774/simple-java-app:15
         ports:
         - containerPort: 8080
 
